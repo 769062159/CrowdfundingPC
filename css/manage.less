@@ -1,6 +1,10 @@
 body{
+	min-width: 1200px;
   .body-container{
+		
     .top-box{
+			min-width: 1200px!important;
+			height: 1400px;
       &>img{
         height: 800px;
       }
@@ -23,13 +27,15 @@ body{
         }
       }
       .box{
+				position: absolute;
         width: 1200px;
         height: 900px;
+				left: 50%;
+				margin-left: -600px;
         border-radius: 20px;
         background-color: #fff;
-        position: absolute;
+        
         margin-top: 350px;
-        margin-left: 360px;
         box-shadow: 0 3px 6px rgba(0,0,0,.16);
         .topContent{
           display: flex;
@@ -118,11 +124,17 @@ body{
         }
       }
       .works{
-        margin-top: 60px;
-        margin-left: 323px;
+				margin-top: 60px;
+				position: absolute;
+				top: 260px;
+				left: 320px;
         .production{
-          margin: 40px 30px auto;
+				
+					width: 800px;
+					box-sizing: border-box;
           .content{
+					
+						width: 800px;
             display: flex;
             flex-wrap: nowrap;
             &>img{
@@ -146,8 +158,8 @@ body{
           .title{
             display: flex;
             flex-wrap: nowrap;
-            border: 1px solid red;
-            width: 625px;
+            
+            // width: 625px;
             margin-left: 150px;
             font-size: 18px;
             color: #666666;
