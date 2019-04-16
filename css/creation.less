@@ -16,14 +16,101 @@
 		display: flex;
 		flex-wrap: nowrap;
 		.creation-content{
-			border: 1px solid red;
+		
 			margin-left: 50px;
 			font-size: 24px;
+			position: relative;
 			.line{
 				display: flex;
 				flex-wrap: nowrap;
+				span{
+					margin: 0 10px;
+				}
+			}
+			.box{
+				margin-top: 30px;
+				height: 30px;
+				display: flex;
+				flex-wrap: nowrap;
+				position: relative;
+				.tip{
+					position: absolute;
+					top: 30px;
+					left:160px;
+					font-size: 14px;
+				}
+				.name-tit{
+					height: 30px;
+					line-height: 30px;
+					color: #707070;
+				}
+				.file-box{
+					position: absolute;
+					left: 160px;
+					color:#E77108;
+					width: 70px;
+					height: 90px;
+					line-height: 90px;
+					text-align: center;
+					border:1px solid #E5E5E5;
+					white-space: nowrap;
+					font-size: 16px;
+				}
+				.img-input{
+					position: absolute;
+					width: 70px;
+					left: 160px;
+					border:1px solid #E5E5E5;
+					height: 90px;
+					z-index: 1;
+					opacity: 0;
+					cursor: pointer;
+				}
+				span{
+					color: red;
+					width: 40px;
+				}
+				.text-input{
+					margin-top: 3px;
+					width: 200px;
+					height: 25px;
+					border:1px solid #E5E5E5;
+					outline: none;
+				}
+				.textarea-input{
+					width: 600px;
+					height: 158px;
+					border:1px solid #E5E5E5;
+					outline: none;
+				}
+				
+				
+			}
+			.bottom{
+				display: flex;
+				flex-wrap: nowrap;
+				position: absolute;
+				bottom:340px;
+				left:160px;
+				.redio-box{
+					display: flex;
+					flex-wrap: nowrap;
+					.item{
+						margin-right: 20px;
+					}
+				}
+			}
+			.btn{
+				position: absolute;
+				right: 40px;
+				bottom: 290px;
+				text-align: center;
+				color: #fff;
+				background-color: #de4618;
+				width: 110px;
 			}
 		}
+		
 		.menu-box{
 			width: 224px;
 			padding: 0;
