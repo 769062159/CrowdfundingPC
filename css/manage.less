@@ -30,12 +30,12 @@ body{
         position: absolute;
         margin-top: 350px;
         margin-left: 360px;
+        box-shadow: 0 3px 6px rgba(0,0,0,.16);
         .topContent{
           display: flex;
           flex-wrap: nowrap;
           .title{
             display: block;
-            border: 1px solid red;
             margin-top: 60px;
             margin-left: 30px;
             .name{
@@ -65,7 +65,7 @@ body{
                 display: block;
                 width: 27px;
                 height: 27px;
-                margin-right: 30px;
+                margin-right: 13px;
               }
               .down{
                 display: block;
@@ -76,7 +76,6 @@ body{
             }
           }
           .user{
-            border: 1px solid red;
             display: flex;
             flex-wrap: nowrap;
             margin-top: 60px;
@@ -89,20 +88,88 @@ body{
               .xiugai{
                 font-size: 16px;
                 color: #666666;
-
+                text-align: center;
+                font-weight: bold;
+                margin-top: 5px;
               }
             }
             .body{
               //display: block;
               color: #666666;
+              margin-left: 40px;
               .username{
                 font-size: 20px;
+                margin-top: 5px;
               }
               .fans{
+                margin-top: 20px;
                 font-size: 16px;
               }
             }
+            .btn{
+              position: absolute;
+              margin-top: 165px;
+              margin-left: 140px;
+              .modify{
+                padding-right: 10px;
+              }
+            }
           }
+        }
+      }
+      .works{
+        margin-top: 60px;
+        margin-left: 323px;
+        .production{
+          margin: 40px 30px auto;
+          .content{
+            display: flex;
+            flex-wrap: nowrap;
+            &>img{
+              width: 75px;
+              height: 90px;
+            }
+            .name{
+              margin-left: 140px;
+              margin-top: 30px;
+            }
+            .section{
+              margin-left: 130px;
+              margin-top: 30px;
+            }
+            .updateTime{
+              margin-top: 30px;
+              margin-left: 120px;
+            }
+
+          }
+          .title{
+            display: flex;
+            flex-wrap: nowrap;
+            border: 1px solid red;
+            width: 625px;
+            margin-left: 150px;
+            font-size: 18px;
+            color: #666666;
+            .book{
+              display: block;
+              margin: 0 auto;
+            }
+            .section{
+              display: block;
+              margin: 0 auto;
+            }
+            .updateTime{
+              display: block;
+              margin: 0 auto;
+            }
+          }
+        }
+        .border{
+          margin-left: 130px;
+          color: #eeeeee;
+          width: 650px;
+          border: 1px solid #eeeeee;
         }
       }
     }
