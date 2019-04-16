@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1,user-scalable=no">
+		<title></title>
+		<link rel="stylesheet" type="text/css" href="css/init.less" />
+		<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css" />
+		<link rel="stylesheet" type="text/css" href="css/swiper.css" />
+		<link rel="stylesheet/less" href="css/index.less">
+	
+		<script src="js/less.js" type="text/javascript" charset="utf-8"></script>
+		<script src="js/jquery.min.js" type="text/javascript" charset="utf-8"></script>
+		<script src="js/swiper.js" type="text/javascript" charset="utf-8"></script>
+		<script src="js/bootstrap.min.js" type="text/javascript" charset="utf-8"></script>
+	</head>
+	<body>
+		<div class="body-container">
+			<div class="top-box">
+				<img src="images/bg.png" alt="">
+				<div class="navBar">
+					<img src="images/logo.png" alt="">
+					<div class="nav-content">
+						<div class="list">版权确权</div>
+						<div class="list">资产上链</div>
+						<div class="list">关于我们</div>
+					</div>
+					<div class="inputBox">
+						<input type="text">
+						<img src="images/search.png" alt="">
+					</div>
+					<div class="loginBox">登陆/注册</div>
+				</div>
+				<div class="top-content">
+					<div class="box-title">全国领先<br>数字文化资产众筹竞价交易平台</div>
+					<div class="text">链上资产    价值互联</div>
+					<div class="top-btn-box">
+						<div class="btn" style="margin-right: 40px;">开始创作</div>
+						<div class="btn">发起众筹</div>
+					</div>
+					<div class="data-box">
+						<div class="item">
+							<div class="text">1,145,115人</div>
+							<div class="desc">平台注册人数</div>
+						</div>
+						<div class="item">
+							<div class="text">1,145,115人</div>
+							<div class="desc">当前投资人数</div>
+						</div>
+						<div class="item">
+							<div class="text">73554笔</div>
+							<div class="desc">平台注册笔数</div>
+						</div>
+					</div>
+				</div>
+				
+			</div>
+			<div class="content">
+				<div class="swiper-container">
+					<div class="swiper-wrapper">
+						<div class="swiper-slide"><img src="images/banner.png" alt=""></div>
+						<div class="swiper-slide"><img src="images/banner.png" alt=""></div>
+						<div class="swiper-slide"><img src="images/banner.png" alt=""></div>
+					</div>
+					
+					<div class="swiper-pagination"></div>
+				</div>
+			</div>
+			
+		</div>
+	</body>
+	<script type="text/javascript">
+		$(function() {
+			var mySwiper = new Swiper('.swiper-container', {
+				autoplay: 3000,
+				loop: true,
+				speed: 1000,
+				pagination: {
+					el: '.swiper-pagination',
+				}
+			})
+		})
+	</script>
+</html>
