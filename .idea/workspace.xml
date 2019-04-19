@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0bf16c45-ddc6-475c-9b2f-dff87aafe04c" name="Default Changelist" comment="" />
+    <list default="true" id="0bf16c45-ddc6-475c-9b2f-dff87aafe04c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/images/180.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/181.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/182.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/183.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/184.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/185.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/banner2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/manage.less" beforeDir="false" afterPath="$PROJECT_DIR$/css/manage.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manage.html" beforeDir="false" afterPath="$PROJECT_DIR$/manage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myAsset.html" beforeDir="false" afterPath="$PROJECT_DIR$/myAsset.html" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -15,35 +31,41 @@
     <session id="470697737">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="html" value="10" />
-          <entry key="less" value="11" />
+          <entry key="html" value="11" />
+          <entry key="js" value="2" />
+          <entry key="less" value="13" />
           <entry key="png" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="10" />
+          <entry key="HTML" value="11" />
           <entry key="Image" value="2" />
-          <entry key="Less" value="11" />
+          <entry key="JavaScript" value="2" />
+          <entry key="Less" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="1375" />
-          <entry key="less" value="2789" />
+          <entry key="html" value="1682" />
+          <entry key="js" value="143" />
+          <entry key="less" value="2923" />
           <entry key="txt" value="48" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="1375" />
-          <entry key="Less" value="2789" />
+          <entry key="HTML" value="1682" />
+          <entry key="JavaScript" value="143" />
+          <entry key="Less" value="2923" />
           <entry key="PLAIN_TEXT" value="48" />
         </counts>
       </usages-collector>
@@ -60,11 +82,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/myAsset.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1647">
-              <caret line="61" column="12" selection-start-line="59" selection-start-column="32" selection-end-line="61" selection-end-column="12" />
+            <state relative-caret-position="283">
+              <caret line="54" column="37" selection-start-line="54" selection-start-column="37" selection-end-line="54" selection-end-column="37" />
               <folding>
                 <element signature="n#style#0;n#li#2;n#ul#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#ul#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -76,41 +98,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/manage.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1134">
-              <caret line="42" column="35" selection-start-line="42" selection-start-column="35" selection-end-line="42" selection-end-column="35" />
-              <folding>
-                <element signature="e#1564#1570#0" expanded="true" />
-                <element signature="e#1570#1576#0" expanded="true" />
-                <element signature="e#1576#1582#0" expanded="true" />
-                <element signature="e#1582#1588#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/css/manage.less">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="343">
-              <caret line="58" column="32" selection-start-line="58" selection-start-column="32" selection-end-line="58" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/login.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1755">
-              <caret line="65" column="22" selection-start-line="65" selection-start-column="22" selection-end-line="65" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/creation.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1647">
-              <caret line="61" column="12" selection-start-line="61" selection-start-column="12" selection-end-line="61" selection-end-column="12" />
+            <state relative-caret-position="1029">
+              <caret line="80" column="41" lean-forward="true" selection-start-line="80" selection-start-column="41" selection-end-line="80" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -118,11 +107,29 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="783">
-              <caret line="29" column="60" selection-start-line="29" selection-start-column="60" selection-end-line="29" selection-end-column="60" />
+            <state relative-caret-position="103">
+              <caret line="243" column="39" selection-start-line="243" selection-start-column="39" selection-end-line="243" selection-end-column="39" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/manage.less">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="135" column="12" selection-start-line="135" selection-start-column="12" selection-end-line="135" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="354">
+              <caret line="39" column="42" selection-start-line="39" selection-start-column="34" selection-end-line="39" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -143,11 +150,13 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/css/login.less" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/manage.html" />
-        <option value="$PROJECT_DIR$/css/index.less" />
         <option value="$PROJECT_DIR$/login.html" />
+        <option value="$PROJECT_DIR$/js/index.js" />
+        <option value="$PROJECT_DIR$/css/index.less" />
+        <option value="$PROJECT_DIR$/manage.html" />
         <option value="$PROJECT_DIR$/css/manage.less" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/myAsset.html" />
       </list>
     </option>
   </component>
@@ -158,8 +167,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="399" />
-    <option name="y" value="44" />
+    <option name="x" value="303" />
+    <option name="y" value="50" />
     <option name="width" value="1209" />
     <option name="height" value="886" />
   </component>
@@ -171,6 +180,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -183,28 +193,32 @@
               <item name="CrowdfundingPC" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="CrowdfundingPC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CrowdfundingPC" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../testWorkSpace/wemall-fe-v2-test" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Crowdfunding" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\sxx1\CrowdfundingPC\css" />
-      <recent name="E:\sxx1\CrowdfundingPC\images" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\sxx1\CrowdfundingPC\images" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\sxx1\CrowdfundingPC\images" />
+      <recent name="E:\sxx1\CrowdfundingPC\css" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -231,6 +245,8 @@
       <updated>1555405494729</updated>
       <workItem from="1555405496211" duration="15411000" />
       <workItem from="1555463532635" duration="93000" />
+      <workItem from="1555655174371" duration="274000" />
+      <workItem from="1555655534641" duration="2955000" />
     </task>
     <task id="LOCAL-00001" summary="login">
       <created>1555412402113</created>
@@ -264,10 +280,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15908000" />
+    <option name="totallyTimeSpent" value="19137000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="399" y="44" width="1209" height="886" extended-state="0" />
+    <frame x="303" y="50" width="1209" height="886" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15371478" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -281,7 +298,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.2663116" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.26648352" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -311,65 +328,66 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/creation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="604">
+          <caret line="61" column="12" selection-start-line="61" selection-start-column="12" selection-end-line="61" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/index.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1618">
-          <caret line="119" column="42" lean-forward="true" selection-start-line="119" selection-start-column="42" selection-end-line="119" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myAsset.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1647">
-          <caret line="61" column="12" selection-start-line="59" selection-start-column="32" selection-end-line="61" selection-end-column="12" />
-          <folding>
-            <element signature="n#style#0;n#li#2;n#ul#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#ul#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/manage.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1134">
-          <caret line="42" column="35" selection-start-line="42" selection-start-column="35" selection-end-line="42" selection-end-column="35" />
-          <folding>
-            <element signature="e#1564#1570#0" expanded="true" />
-            <element signature="e#1570#1576#0" expanded="true" />
-            <element signature="e#1576#1582#0" expanded="true" />
-            <element signature="e#1582#1588#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="674">
+          <caret line="221" column="26" selection-start-line="221" selection-start-column="26" selection-end-line="221" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/login.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1755">
+        <state relative-caret-position="-96">
           <caret line="65" column="22" selection-start-line="65" selection-start-column="22" selection-end-line="65" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/creation.html">
+    <entry file="file://$PROJECT_DIR$/js/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1647">
-          <caret line="61" column="12" selection-start-line="61" selection-start-column="12" selection-end-line="61" selection-end-column="12" />
+        <state relative-caret-position="354">
+          <caret line="39" column="42" selection-start-line="39" selection-start-column="34" selection-end-line="39" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/manage.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="135" column="12" selection-start-line="135" selection-start-column="12" selection-end-line="135" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="783">
-          <caret line="29" column="60" selection-start-line="29" selection-start-column="60" selection-end-line="29" selection-end-column="60" />
+        <state relative-caret-position="103">
+          <caret line="243" column="39" selection-start-line="243" selection-start-column="39" selection-end-line="243" selection-end-column="39" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/manage.less">
+    <entry file="file://$PROJECT_DIR$/manage.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="343">
-          <caret line="58" column="32" selection-start-line="58" selection-start-column="32" selection-end-line="58" selection-end-column="32" />
+        <state relative-caret-position="1029">
+          <caret line="80" column="41" lean-forward="true" selection-start-line="80" selection-start-column="41" selection-end-line="80" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myAsset.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="54" column="37" selection-start-line="54" selection-start-column="37" selection-end-line="54" selection-end-column="37" />
+          <folding>
+            <element signature="n#style#0;n#li#2;n#ul#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#ul#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
